@@ -1,0 +1,1 @@
+php artisan serve --host=chaunhattai.local --port=8000
